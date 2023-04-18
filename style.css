@@ -1,0 +1,137 @@
+ul {
+    margin: 0;
+    padding: 0%;
+}
+h1, h2, h3, p {
+    margin: 0%;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+.header {
+    display: flex;
+    background-color: rgb(48, 45, 45); 
+}
+
+.dad {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
+.buttons {
+   color: rgb(255, 255, 0);
+   text-decoration: none;
+}
+
+.input {
+    margin-left: 500px;
+}
+
+.motofoto {
+    width: 140px;
+    margin-left: 40px;
+    padding-top: 40px;
+}
+
+.name-glav {
+    margin-left: 500px;
+    color: rgb(225, 255, 0);
+}
+
+.services1 {
+    background-color:  rgb(48, 45, 45);
+}
+
+.moto12 {
+    width: 400px;
+}
+
+
+
+.a1 {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    border-radius: 15px;
+    background-color: rgb(0, 255, 47);
+}
+
+.h2-1 {
+    color: rgb(255, 221, 0);
+}
+
+.p-1 {
+    color: rgb(0, 255, 38);
+}
+
+
+
+.li-4 {
+    width: 250px;
+    border: dashed gold;
+}
+
+.li-4:hover {
+    color: rgba(0, 0, 255, 0.25);
+    background-color: blue;
+}
+
+.ul-2 {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+.img2 {
+    width: 500px;
+}
+
+.h221 {
+    color: darkorange;
+}
+
+.p221 {
+    color: yellow;
+}
+
+.ul-3 {
+    border: dashed yellow;
+    border-radius: 20px;
+}
+
+.li2223 {
+    list-style: none;
+}
+
+.ul-5 {
+    list-style: none;
+    border: dashed yellow;
+    background-color: rgb(48, 45, 45);
+}
+
+.h2-2 {
+    color: yellow;
+}
+
+.li-5 {
+    list-style: none;
+    align-items: center;
+}
+
+.service {
+    text-align: center;
+    background-color: rgb(48, 45, 45);
+}
+
+.h3-2 {
+    color: yellow;
+}
+
+.h32 {
+    color: yellow;
+}
+
+
